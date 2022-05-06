@@ -3,7 +3,7 @@
 - Hello friends,
 - 02.05.2022 haben wir den ersten Unterricht in Git/Github VSM.
 
-* Der Kurs haben wir beim Herr Alex Preugchart von www.mugs.de
+* Der Kurs haben wir beim Herr Alex Preugchart von www.mugs.de gelernt.
 
 ### Installation:
 
