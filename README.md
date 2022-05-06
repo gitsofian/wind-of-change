@@ -1,7 +1,7 @@
 # Herzlich wilkommen beim Git und Github
 
 - Hello World!,
-- heute 05.05.2022 haben wir der erste Unterricht in Git und Github
+- 02.05.2022 haben wir den ersten Unterricht in Git und Github VSM.
 
 * Der Kurs haben wir beim Herr Alex Preugchart
 * www.mugs.de
